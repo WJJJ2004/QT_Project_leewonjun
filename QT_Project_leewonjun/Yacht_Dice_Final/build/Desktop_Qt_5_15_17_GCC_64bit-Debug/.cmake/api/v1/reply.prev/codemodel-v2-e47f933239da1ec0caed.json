@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a02074c2afac7985e1ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Yacht_Dice_Final",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Yacht_Dice_Final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Yacht_Dice_Final-Debug-3333a81537b249da204a.json",
+					"name" : "Yacht_Dice_Final",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Yacht_Dice_Final_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Yacht_Dice_Final_autogen-Debug-fb45fbaa1cbf500af7be.json",
+					"name" : "Yacht_Dice_Final_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Yacht_Dice_Final_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Yacht_Dice_Final_autogen_timestamp_deps-Debug-e52d2061e1cddef17694.json",
+					"name" : "Yacht_Dice_Final_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug",
+		"source" : "/home/lwj/Yacht_Dice_Final"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

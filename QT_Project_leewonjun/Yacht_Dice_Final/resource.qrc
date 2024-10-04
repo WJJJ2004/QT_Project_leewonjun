@@ -1,0 +1,12 @@
+<RCC>
+    <qresource lang="english" prefix="/dice_side"/>
+    <qresource prefix="/">
+        <file>../Downloads/주사위 png 사본/6면 주사위 1.png</file>
+        <file>../Downloads/주사위 png 사본/6면 주사위 2.png</file>
+        <file>../Downloads/주사위 png 사본/6면 주사위 3.png</file>
+        <file>../Downloads/주사위 png 사본/6면 주사위 4.png</file>
+        <file>../Downloads/주사위 png 사본/6면 주사위 5.png</file>
+        <file>../Downloads/주사위 png 사본/6면 주사위 6.png</file>
+        <file>../Pictures/스크린샷/물음표박스.png</file>
+    </qresource>
+</RCC>

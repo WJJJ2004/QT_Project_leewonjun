@@ -1,0 +1,9 @@
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/Yacht_Dice_Final.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/Yacht_Dice_Final_autogen_timestamp_deps.dir
+/home/lwj/Yacht_Dice_Final/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/CMakeFiles/Yacht_Dice_Final_autogen.dir
